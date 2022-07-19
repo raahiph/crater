@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '2f8fa616311ce33546fa004761d7589ce1cf61ea',
         'name' => 'crater-invoice/crater',
         'dev' => true,
     ),
@@ -161,12 +161,12 @@
             ),
         ),
         'crater-invoice/crater' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '2f8fa616311ce33546fa004761d7589ce1cf61ea',
             'dev_requirement' => false,
         ),
         'crater-invoice/modules' => array(
